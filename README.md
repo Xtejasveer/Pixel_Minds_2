@@ -1,6 +1,7 @@
 # Project Title: Autonomous NPC.
 
-This project builds Dynamic,context-aware NPC Framework using Autogen ##(Samsung Prism Gen-AI Hackathon Submission)
+This project builds Dynamic,context-aware NPC Framework using Autogen 
+### (Samsung Prism Gen-AI Hackathon Submission)
 
 ---
 
